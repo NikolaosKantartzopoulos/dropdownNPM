@@ -1,0 +1,11 @@
+{
+  "name": "mydrop",
+  "version": "1.0.0",
+  "description": "Pure js drop menus with .dropbtn and .dropmenu classes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikos",
+  "license": "ISC"
+}
