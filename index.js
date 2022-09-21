@@ -1,7 +1,3 @@
-exports.printMsg = function () {
-	console.log("This is a message from the DROPDOWN package");
-};
-let navBar = document.getElementsByClassName("navBar");
 let dropbtn = Array.from(document.getElementsByClassName("dropbtn"));
 let dropmenu = Array.from(document.getElementsByClassName("dropmenu"));
 
